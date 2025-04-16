@@ -1,0 +1,29 @@
+{
+    "$schema": "https://raw.githubusercontent.com/JoaoMPdS/catweb-index/main/json-schema/schema.json",
+
+    "subdomains": {
+        "": [
+            {
+                "path": "/",
+                "title": "Games",
+                "description": "The best game site on catweb.",
+                "iconId": 104854597208504
+            }
+        ],
+        "": [
+            {
+                "path": "/tetris",
+                "title": "Tetris on games.rbx",
+                "description": "Play tetris on the best game site on catweb",
+                "iconId": 104854597208504
+            }
+        ]
+    },
+
+    "createdAt": "16/04/2025",
+    "visits": {
+        "current": 34000,
+        "updatedAt": "15/04/2025"
+    },
+    "creatorId": "628627550"
+}
